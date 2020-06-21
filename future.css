@@ -1,0 +1,39 @@
+body{
+	font-size: 12px;
+    line-height: 120%;
+    color: #1d2d45;
+	display: block;
+	margin: 8px;
+}
+a{
+	TEXT-DECORATION:none;
+	color:yellow;
+}
+h2{
+	color:yellow;
+}
+p{
+	color:purple;
+}
+.all{
+	margin:0 auto;
+	width:800px;
+	background-image:url(../image/b4.jpg);
+	background-repeat:no-repeat;
+	background-size: 800px 800px; 
+	background-position:center;
+}
+.My{
+	width:800px;
+	height:100px;
+	text-align: center;
+	line-height:100px;
+	font-family:Verdana,Gendana,Arial,sans-serif;
+	font-size:50px;
+}
+.nr{
+	width:800px;
+	height:200px;
+text-align: center;	
+}
+
